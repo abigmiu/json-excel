@@ -1,0 +1,18 @@
+{
+    "Layout": {
+        "login": "Log in",
+        "register": "Register",
+        "center": "Profile",
+        "logout": "Log out",
+        "confirmLogout": "Confirm to exit?",
+        "concatUs": "Contact us",
+        "aboutUs": "About us",
+        "privacyText": "Privacy agreement",
+        "wx": "PDF download cannot be supported in WeChat, if you want to continue, please jump to an external browser to download"
+    },
+    "NavList": {
+        "Home": "Home",
+        "Reserve": "Appointment",
+        "Guide": "Map&Navigation"
+    }
+}
