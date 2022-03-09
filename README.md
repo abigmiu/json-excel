@@ -27,4 +27,4 @@
 ```
 希望变成这样
 
-![translate](/Users/ganguo/Documents/companyProject/json2Excel/imgs/translate.png)
+![translate](./imgs/translate.png)

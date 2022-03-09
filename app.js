@@ -82,4 +82,4 @@ function write(fileName, sheetName) {
     fs.writeFileSync(`./${fileName}.xlsx`, buffer)
 }
 
-write('translate')
+write('translate', 'sheetName')
